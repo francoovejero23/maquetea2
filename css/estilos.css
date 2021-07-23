@@ -1,0 +1,68 @@
+/*font-family: 'Yantramanav', sans-serif;*/
+
+footer{
+/* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#240c33+14,240c33+14,d69b57+50,facb0e+100 */
+background: #240c33; /* Old browsers */
+background: -moz-linear-gradient(top, #240c33 14%, #240c33 14%, #d69b57 50%, #facb0e 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top, #240c33 14%,#240c33 14%,#d69b57 50%,#facb0e 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom, #240c33 14%,#240c33 14%,#d69b57 50%,#facb0e 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#240c33', endColorstr='#facb0e',GradientType=0 ); /* IE6-9 */
+
+}
+
+.hero{
+    background: url(../img/sheep1.jpeg) no-repeat;
+    background-size: cover;
+    height: 50px;
+    min-height: 1000px;
+    color: white;
+    
+    
+}
+
+texto1{
+    font-family: 'Yantramanav', sans-serif;
+}
+
+.carrousel{
+    background-color: violet;
+    height:auto;
+    min-height: 100px;
+}
+
+.Amigos{
+
+    font-family: 'Zen Loop', cursive;
+
+}
+
+.card-deck{
+
+    display: flex;
+}
+
+.card-border{
+border: solid 10px;
+border-radius: 20px;
+overflow: hidden;
+transition: all ease-out 0.2s;
+}
+
+.card-border:hover{
+
+    transform: scale(1.05);
+}
+
+
+
+.body{
+/* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#aa2ec9+0,f237d0+36,d69b57+65,babc2b+100 */
+background: #aa2ec9; /* Old browsers */
+background: -moz-linear-gradient(-45deg, #aa2ec9 0%, #f237d0 36%, #d69b57 65%, #babc2b 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(-45deg, #aa2ec9 0%,#f237d0 36%,#d69b57 65%,#babc2b 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(135deg, #aa2ec9 0%,#f237d0 36%,#d69b57 65%,#babc2b 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#aa2ec9', endColorstr='#babc2b',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+
+}
+
+
